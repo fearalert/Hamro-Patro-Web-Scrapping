@@ -1,0 +1,28 @@
+{
+  "name": "hamropatro",
+  "version": "1.0.0",
+  "description": "Scrapper for Hamro Patro Dates, Months and Tithis",
+  "main": "index.js",
+  "scripts": {
+    "test": "hello"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/fearalert/hamropatro.git"
+  },
+  "keywords": [
+    "scrapper",
+    "date",
+    "tithis"
+  ],
+  "author": "rohan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fearalert/hamropatro/issues"
+  },
+  "homepage": "https://github.com/fearalert/hamropatro#readme",
+  "dependencies": {
+    "http-server": "^14.1.1",
+    "puppeteer": "^22.11.1"
+  }
+}
